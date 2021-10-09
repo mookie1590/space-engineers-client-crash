@@ -1,0 +1,103 @@
+2021-10-08 22:30:22.422 - Thread:   1 ->  Log Started
+2021-10-08 22:30:22.422 - Thread:   1 ->  Timezone (local - UTC): -4h
+2021-10-08 22:30:22.422 - Thread:   1 ->  App Version: 01_199_025
+2021-10-08 22:30:22.431 - Thread:   1 ->  Is official: True [NO][IS][NAMP]
+2021-10-08 22:30:22.431 - Thread:   1 ->  Branch / Sandbox: SVN
+2021-10-08 22:30:22.432 - Thread:   1 ->  Environment.ProcessorCount: 24
+2021-10-08 22:30:22.465 - Thread:   1 ->  Environment.OSVersion: Microsoft Windows 10 Pro (Microsoft Windows NT 10.0.19042.0)
+2021-10-08 22:30:22.465 - Thread:   1 ->  Environment.CommandLine: "G:\Steam\steamapps\common\SpaceEngineers\Bin64\SpaceEngineers.exe" 
+2021-10-08 22:30:22.465 - Thread:   1 ->  Environment.Is64BitProcess: True
+2021-10-08 22:30:22.465 - Thread:   1 ->  Environment.Is64BitOperatingSystem: True
+2021-10-08 22:30:22.466 - Thread:   1 ->  Environment.Version: .NET Framework 4.8.4400.0
+2021-10-08 22:30:22.466 - Thread:   1 ->  Environment.CurrentDirectory: G:\Steam\steamapps\common\SpaceEngineers\Bin64
+2021-10-08 22:30:22.470 - Thread:   1 ->  CPU Info: AMD Ryzen 9 3900X 12-Core Processor            
+2021-10-08 22:30:22.470 - Thread:   1 ->  IntPtr.Size: 8
+2021-10-08 22:30:22.470 - Thread:   1 ->  Default Culture: 
+2021-10-08 22:30:22.470 - Thread:   1 ->  Default UI Culture: 
+2021-10-08 22:30:22.473 - Thread:   1 ->  MyConfig.Load() - START
+2021-10-08 22:30:22.475 - Thread:   1 ->     Path: C:\Users\mookie\AppData\Roaming\SpaceEngineers\SpaceEngineers.cfg
+2021-10-08 22:30:22.605 - Thread:   1 ->     NewNewGameScreen: False
+2021-10-08 22:30:22.605 - Thread:   1 ->     EnableDamageEffects: True
+2021-10-08 22:30:22.605 - Thread:   1 ->     GraphicsRenderer: DirectX 11
+2021-10-08 22:30:22.605 - Thread:   1 ->     EnableReverb: False
+2021-10-08 22:30:22.605 - Thread:   1 ->     DebugInputs: VRage.Serialization.SerializableDictionary`2[System.String,Sandbox.Engine.Utils.MyConfig+MyDebugInputData]
+2021-10-08 22:30:22.605 - Thread:   1 ->     ControlsGeneral: VRage.Serialization.SerializableDictionary`2[System.String,System.String]
+2021-10-08 22:30:22.605 - Thread:   1 ->     ControlsButtons: VRage.Serialization.SerializableDictionary`2[System.String,VRage.Serialization.SerializableDictionary`2[System.String,System.String]]
+2021-10-08 22:30:22.605 - Thread:   1 ->     FirstTimeRun: False
+2021-10-08 22:30:22.605 - Thread:   1 ->     ExperimentalMode: True
+2021-10-08 22:30:22.605 - Thread:   1 ->     VideoAdapter: 0
+2021-10-08 22:30:22.605 - Thread:   1 ->     ScreenWidth: 2560
+2021-10-08 22:30:22.605 - Thread:   1 ->     ScreenHeight: 1440
+2021-10-08 22:30:22.605 - Thread:   1 ->     RefreshRate: 143998
+2021-10-08 22:30:22.605 - Thread:   1 ->     WindowMode: 1
+2021-10-08 22:30:22.605 - Thread:   1 ->     VerticalSync: 1
+2021-10-08 22:30:22.605 - Thread:   1 ->     FieldOfView: 90.17416
+2021-10-08 22:30:22.605 - Thread:   1 ->     PostProcessingEnabled: True
+2021-10-08 22:30:22.605 - Thread:   1 ->     FlaresIntensity: 1
+2021-10-08 22:30:22.605 - Thread:   1 ->     TreeViewDistance: 1218
+2021-10-08 22:30:22.605 - Thread:   1 ->     GrassDensity: 1.961523
+2021-10-08 22:30:22.605 - Thread:   1 ->     GrassDrawDistance: 4998
+2021-10-08 22:30:22.605 - Thread:   1 ->     AntialiasingMode: 1
+2021-10-08 22:30:22.605 - Thread:   1 ->     ShadowMapResolution: 1
+2021-10-08 22:30:22.605 - Thread:   1 ->     AmbientOcclusionEnabled: True
+2021-10-08 22:30:22.605 - Thread:   1 ->     TextureQuality: 2
+2021-10-08 22:30:22.605 - Thread:   1 ->     VoxelTextureQuality: 2
+2021-10-08 22:30:22.605 - Thread:   1 ->     AnisotropicFiltering: 4
+2021-10-08 22:30:22.605 - Thread:   1 ->     ModelQuality: 2
+2021-10-08 22:30:22.605 - Thread:   1 ->     VoxelQuality: 2
+2021-10-08 22:30:22.605 - Thread:   1 ->     ShaderQuality: 2
+2021-10-08 22:30:22.605 - Thread:   1 ->     LowMemSwitchToLow: 0
+2021-10-08 22:30:22.605 - Thread:   1 ->     FirstVTTimeRun: False
+2021-10-08 22:30:22.605 - Thread:   1 ->     WelcomeScreenCurrentStatus: 1
+2021-10-08 22:30:22.605 - Thread:   1 ->     GDPRConsent: True
+2021-10-08 22:30:22.605 - Thread:   1 ->     GDPRConsentSentUpdated: True
+2021-10-08 22:30:22.605 - Thread:   1 ->     GameVolume: 0.3035684
+2021-10-08 22:30:22.605 - Thread:   1 ->     Music_Volume: 0.05810342
+2021-10-08 22:30:22.605 - Thread:   1 ->     VoiceChatVolume: 5
+2021-10-08 22:30:22.605 - Thread:   1 ->     HudWarnings: True
+2021-10-08 22:30:22.605 - Thread:   1 ->     MicrophoneSensitivity: 0.5
+2021-10-08 22:30:22.605 - Thread:   1 ->     VoiceChat: True
+2021-10-08 22:30:22.605 - Thread:   1 ->     VoiceChatVoiceActivation: False
+2021-10-08 22:30:22.605 - Thread:   1 ->     EnableMuteWhenNotInFocus: True
+2021-10-08 22:30:22.605 - Thread:   1 ->     EnableDynamicMusic: True
+2021-10-08 22:30:22.605 - Thread:   1 ->     ShipSoundsAreBasedOnSpeed: True
+2021-10-08 22:30:22.605 - Thread:   1 ->     EnableDoppler: True
+2021-10-08 22:30:22.605 - Thread:   1 ->     ModIoConsent: True
+2021-10-08 22:30:22.605 - Thread:   1 ->     EnableTrading: True
+2021-10-08 22:30:22.605 - Thread:   1 ->     EnableSteamCloud: True
+2021-10-08 22:30:22.605 - Thread:   1 ->     CubeBuilderBuildingMode: 0
+2021-10-08 22:30:22.605 - Thread:   1 ->     ControlsHints: True
+2021-10-08 22:30:22.605 - Thread:   1 ->     GoodBotHints: False
+2021-10-08 22:30:22.605 - Thread:   1 ->     RotationHints: True
+2021-10-08 22:30:22.605 - Thread:   1 ->     AreaInteraction: True
+2021-10-08 22:30:22.605 - Thread:   1 ->     HitIndicatorColorCharacter: 4289964437
+2021-10-08 22:30:22.605 - Thread:   1 ->     HitIndicatorTextureCharacter: Textures\GUI\Indicators\HitIndicator4.png
+2021-10-08 22:30:22.605 - Thread:   1 ->     HitIndicatorColorFriend: 4284199525
+2021-10-08 22:30:22.605 - Thread:   1 ->     HitIndicatorTextureFriend: Textures\GUI\Indicators\HitIndicator4.png
+2021-10-08 22:30:22.605 - Thread:   1 ->     HitIndicatorColorGrid: 4294035829
+2021-10-08 22:30:22.605 - Thread:   1 ->     HitIndicatorTextureGrid: Textures\GUI\Indicators\HitIndicator4.png
+2021-10-08 22:30:22.605 - Thread:   1 ->     HitIndicatorColorHeadshot: 4280529896
+2021-10-08 22:30:22.605 - Thread:   1 ->     HitIndicatorTextureHeadshot: Textures\GUI\Indicators\HitIndicator4.png
+2021-10-08 22:30:22.605 - Thread:   1 ->     HitIndicatorColorKill: 4282269412
+2021-10-08 22:30:22.605 - Thread:   1 ->     HitIndicatorTextureKill: Textures\GUI\Indicators\HitIndicator4.png
+2021-10-08 22:30:22.605 - Thread:   1 ->     ShowCrosshair2: 0
+2021-10-08 22:30:22.605 - Thread:   1 ->     IronSightSwitchState: 0
+2021-10-08 22:30:22.605 - Thread:   1 ->     SpriteMainViewportScale: 1
+2021-10-08 22:30:22.605 - Thread:   1 ->     UiTransparency: 1
+2021-10-08 22:30:22.605 - Thread:   1 ->     UiBkTransparency: 0.8
+2021-10-08 22:30:22.605 - Thread:   1 ->     HUDBkTransparency: 0.6
+2021-10-08 22:30:22.605 - Thread:   1 ->     ZoomMultiplier: 0.2
+2021-10-08 22:30:22.605 - Thread:   1 ->     GamepadScheme: 0
+2021-10-08 22:30:22.605 - Thread:   1 ->     FirstTimeTutorials: False
+2021-10-08 22:30:22.605 - Thread:   1 ->     ControllerDefaultOnStart: False
+2021-10-08 22:30:22.605 - Thread:   1 ->     ScreenshotSizeMultiplier: 1
+2021-10-08 22:30:22.605 - Thread:   1 ->     ServerSearchSettings: VRage.Game.ObjectBuilders.Gui.MyObjectBuilder_ServerFilterOptions
+2021-10-08 22:30:22.605 - Thread:   1 ->     HudState: 1
+2021-10-08 22:30:22.605 - Thread:   1 ->     TutorialsFinished: System.Collections.Generic.List`1[System.String]
+2021-10-08 22:30:22.605 - Thread:   1 ->     MutedPlayers: [REDACTED]
+2021-10-08 22:30:22.605 - Thread:   1 ->     EnablePerformanceWarningsTempV2: True
+2021-10-08 22:30:22.605 - Thread:   1 ->     CubeBuilderAlignToDefault: True
+2021-10-08 22:30:22.605 - Thread:   1 ->     CubeBuilderUseSymmetry: False
+2021-10-08 22:30:22.605 - Thread:   1 ->     DisableUpdateDriverNotification: False
+2021-10-08 22:30:22.606 - Thread:   1 ->  MyConfig.Load() - END
+2021-10-08 22:30:23.053 - Thread:   1 ->  Checksum file is missing, game will run as usual but file integrity won't be verified
